@@ -1,4 +1,4 @@
-# Personal Site (Astro)
+# Personal Portfolio Website
 
 Minimal, static personal site with two pages: Home and Academic.
 
