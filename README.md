@@ -1,26 +1,27 @@
 # Personal Portfolio Website
 
-Minimal, static personal site with two pages: Home and Academic.
+This is my personal portfolio website built with Astro.
 
-## Local Development
+I wanted to create a simple and clean website to present myself and my academic work, while also learning how modern static sites are structured.
 
-```bash
-npm install
-npm run dev
-```
+## ✨ Features
 
-Build and preview:
+- Minimal and responsive design  
+- Fast static site built with Astro  
+- Two main sections:
+  - Home page  
+  - Academic page (courses and details)
 
-```bash
-npm run build
-npm run preview
-```
+## 🧠 What I learned
 
-## Cloudflare Pages Deployment
+While building this project, I focused on understanding:
 
-1) Push this repository to GitHub.
-2) In Cloudflare Pages, click **Create a project** → **Connect to Git**.
-3) Select the repo and set build settings:
-   - Build command: `npm run build`
-   - Output directory: `dist`
-4) Deploy. Cloudflare Pages will build on every push to the default branch.
+- Component-based structure  
+- Project organization  
+- Basics of modern frontend development  
+
+## 🛠️ Tech Stack
+
+- Astro  
+- TypeScript  
+- HTML / CSS  
